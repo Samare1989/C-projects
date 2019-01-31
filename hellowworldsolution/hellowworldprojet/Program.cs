@@ -4,11 +4,6 @@
 namespace hellowworldprojet
 {
 
-
-
-
-
-
     class Program
     {
         static int a = 7;
